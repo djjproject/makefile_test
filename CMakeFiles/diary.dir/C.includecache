@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/makefile_test/calendar.c
+diary.h
+/root/makefile_test/diary.h
+
+/root/makefile_test/diary.h
+stdio.h
+-
+
+/root/makefile_test/main.c
+diary.h
+/root/makefile_test/diary.h
+
+/root/makefile_test/memo.c
+diary.h
+/root/makefile_test/diary.h
+

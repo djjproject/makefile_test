@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/diary.dir/main.c.o CMakeFiles/diary.dir/calendar.c.o CMakeFiles/diary.dir/memo.c.o  -o diary -rdynamic 
