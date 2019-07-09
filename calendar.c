@@ -1,4 +1,4 @@
 #include "diary.h"
 void calendar(){
-	printf("calendar");
+	printf("calendar\n");
 }

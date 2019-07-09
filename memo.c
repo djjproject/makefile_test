@@ -1,4 +1,4 @@
 #include "diary.h"
 void memo() {
-	printf("memo");
+	printf("memo\n");
 }
